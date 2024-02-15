@@ -94,7 +94,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 ## Class 4 (2/15, 2/20)
 ### *Note:* Thursday, 2/22 - NO CLASS. Classes follow Monday schedule.
 
-### *Reminder:* Assignment 1 - Zoo is due on Friday, 2/16, at 11:59 PM.
+### *Reminder:* NEW DUE DATE: Assignment 1 - Zoo is due on Friday, 2/23, at 11:59 PM.
 <br/>
 
 **Document Object Model (DOM)**
