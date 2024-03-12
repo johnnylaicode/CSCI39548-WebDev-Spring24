@@ -127,6 +127,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - React App Structure and Data Flow (*summary*)
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
+   - Section 5: State and Lifecycle (*summary*)
 - Install Node.js and NPM: [Install via Download](https://nodejs.org/en/download/) or [Install via Package Manager](https://nodejs.org/en/download/package-manager/) 
 - NPM (Node Package Manager), NPX (Node Package Execute), NVM (Node.js Version Manager)
 
@@ -144,6 +145,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 ***Continue:*** **React**
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
+   - Section 5: State and Lifecycle (*summary*)
 
 **React Components, Asynchronous Programming, and API**
 - [React Application Examples (Components 1-5): React components, async/await, API](https://github.com/johnnylaicode/react-examples)
