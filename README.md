@@ -145,7 +145,6 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 ***Continue:*** **React**
 - [React Docs: Main Concepts of React (Sections 1-5)](https://17.reactjs.org/docs/hello-world.html)
    - Sections: Hello World, Introducing JSX, Rendering Elements, Components and Props, State and Lifecycle
-   - Section 5: State and Lifecycle (*summary*)
 
 **React Components, Asynchronous Programming, and API**
 - [React Application Examples (Components 1-5): React components, async/await, API](https://github.com/johnnylaicode/react-examples)
