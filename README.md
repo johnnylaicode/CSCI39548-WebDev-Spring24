@@ -92,7 +92,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 
 ----------
 ## Class 4 (2/15, 2/20)
-### *Note:* Thursday, 2/22 - NO CLASS. Classes follow Monday schedule.
+### *Note:* NO CLASS 2/22 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Tuesday, 2/27.
 
 ### *Reminder:* NEW DUE DATE: Assignment 1 - Zoo is due on Friday, 2/23, at 11:59 PM.
 <br/>
@@ -285,6 +285,8 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 
 ----------
 ## Class 12 (4/18, 5/2)
+### *Note:* NO CLASS 4/22-4/30 - SPRING BREAK. HAVE A NICE SPRING BREAK! Class resumes on Thursday, 5/2.
+
 ### *Reminder:* Review sample questions/answers of Course Assessment Test on Tuesday, 5/7.
 <br/>
 
