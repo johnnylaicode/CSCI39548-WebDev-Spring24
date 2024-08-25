@@ -327,3 +327,4 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 
 **Work on Final Project - Full-Stack CRUD Application**
 - Final Project is due on Friday, 5/17, at 11:59 PM.
+ 
