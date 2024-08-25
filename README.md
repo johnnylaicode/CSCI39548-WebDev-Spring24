@@ -1,8 +1,8 @@
-# CSCI39548-WebDev-Spring24
-Course Page for CSCI 39548 Practical Web Development - Spring 2024
+# CSCI39548-WebDev-Fall24
+Course Page for CSCI 39548 Practical Web Development - Fall 2024
 
 ----------
-## Class 1 (1/25, 1/30)
+## Class 1 (8/29, 9/3)
 **Course Overview**
 - Course syllabus and logistics
 - Join Slack 
@@ -52,7 +52,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
 ----------
-## Class 2 (2/1, 2/6)
+## Class 2 (9/5, 9/10)
 **Intro to Assignment 1**
 - ### [Assignment 1 - Zoo](https://drive.google.com/file/d/1BU-UBDcvjEW5yJHJrPYJoI9oWc_I01eq/view?usp=sharing)
 - **[Starter code for Assignment 1](https://github.com/johnnylaicode/zoo-starter-code)**
@@ -80,7 +80,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
 ----------
-## Class 3 (2/8, 2/13)
+## Class 3 (9/12, 9/17)
 ***Continue:*** **JavaScript**
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
    - Sections: Data Sets, Properties, Methods, Objects, Mutability, Array Loops, Further Arrayology, Strings and Their Properties, Rest Parameters, JSON
@@ -91,10 +91,8 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
    - Chapter 5: Higher-Order Functions (*summary*)
 
 ----------
-## Class 4 (2/15, 2/20)
-### *Note:* NO CLASS 2/22 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Tuesday, 2/27.
-
-### *Reminder:* NEW DUE DATE: Assignment 1 - Zoo is due on Friday, 2/23, at 11:59 PM.
+## Class 4 (9/19, 9/24)
+### *Reminder:* DUE DATE: Assignment 1 - Zoo is due on Friday, 9/20, at 11:59 PM.
 <br/>
 
 **Document Object Model (DOM)**
@@ -121,7 +119,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 ----------
-## Class 5 (2/27, 3/5)
+## Class 5 (9/26, 10/1)
 **React**
 - [React Docs: Create a New React App](https://17.reactjs.org/docs/create-a-new-react-app.html)
 - React App Structure and Data Flow (*summary*)
@@ -138,8 +136,10 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Intro to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
 ----------
-## Class 6 (3/7, 3/12)
-### *Reminder:* NEW DUE DATE: Assignment 2 - Grid Maker is due on Monday, 3/18, at 11:59 PM.
+## Class 6 (10/8, 10/10)
+### *Note:* NO CLASS 10/15 - CLASSES FOLLOW MONDAY SCHEDULE. Class resumes on Thursday, 10/27.
+
+### *Reminder:* DUE DATE: Assignment 2 - Grid Maker is due on Wednesday, 10/16, at 11:59 PM.
 <br/>
 
 ***Continue:*** **React**
@@ -170,10 +170,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)
 
 ----------
-## Class 7 (3/14, 3/19)
-### *Reminder:* NEW DUE DATE: Assignment 2 - Grid Maker is due on Monday, 3/18, at 11:59 PM.
-<br/>
-
+## Class 7 (10/17, 10/22)
 **React Router**
 - Single-Page Application, Client-Side Routing, React Router (*summary*)
 - Intro to React Router ([slides](https://drive.google.com/file/d/1hgwPyZzvKDtftmdgSWdahXR4xGWCm42z/view?usp=sharing))
@@ -200,7 +197,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ----------
-## Class 8 (3/21, 3/26)
+## Class 8 (10/24, 10/29)
 
 **Redux and Thunk Middleware**
 - Redux: Manage state in React applications using Redux (*summary*)
@@ -221,8 +218,8 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 **Work on Assignment 3 - Bank of React**
 
 ----------
-## Class 9 (3/28, 4/2)
-### *Reminder:* NEW DUE DATE: Assignment 3 - Bank of React is due on Monday, 4/8, at 11:59 PM.
+## Class 9 (10/31, 11/5)
+### *Reminder:* DUE DATE: Assignment 3 - Bank of React is due on Monday, 11/4, at 11:59 PM.
 <br/>
 
 **Intro to Final Project**
@@ -245,10 +242,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
 
 ----------
-## Class 10 (4/4, 4/9)
-### *Reminder:* NEW DUE DATE: Assignment 3 - Bank of React is due on Monday, 4/8, at 11:59 PM.
-<br/>
-
+## Class 10 (11/7, 11/12)
 **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 
@@ -275,7 +269,7 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Sequelize documentation](https://sequelize.org/master/)
 
 ----------
-## Class 11 (4/11, 4/16)
+## Class 11 (11/14, 11/19)
 ***Continue:*** **Back-End Application (Final Project)**
 - Build back-end application ([server starter code](https://github.com/johnnylaicode/server-starter-code))
 - Final Project: Server-Side (Back-End) Application Starter Code (*summary*)
@@ -284,10 +278,10 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
 
 ----------
-## Class 12 (4/18, 5/2)
-### *Note:* NO CLASS 4/22-4/30 - SPRING BREAK. HAVE A NICE SPRING BREAK! Class resumes on Thursday, 5/2.
+## Class 12 (11/21, 11/26)
+### *Note:* NO CLASS 11/28 - HAPPY THANKSGIVING! Class resumes on Tuesday, 12/3.
 
-### *Reminder:* Review sample questions/answers of Course Assessment Test on Tuesday, 5/7.
+### *Reminder:* Review sample questions/answers of Course Assessment Test on Tuesday, 12/3.
 <br/>
 
 ***Continue:*** **Back-End Application (Final Project)**
@@ -303,27 +297,27 @@ Course Page for CSCI 39548 Practical Web Development - Spring 2024
 - [psql commands](https://www.postgresqltutorial.com/psql-commands/)
 
 ----------
-## Class 13 (5/7, 5/9)
-### *Reminder 1:* Course Assessment Test (optional extra credit) on Tuesday, 5/14.
+## Class 13 (12/3, 12/5)
+### *Reminder 1:* Course Assessment Test (optional extra credit) on Tuesday, 10/10.
 
 ### *Reminder 2:* Complete Teacher Evaluation
 <br/>
 
 **Review for Course Assessment Test (optional extra credit)**
-- Review sample questions/answers of Course Assessment Test on Tuesday, 5/7.
+- Review sample questions/answers of Course Assessment Test on Tuesday, 10/10.
 - *Note: The above information is available on Blackboard.*
 
 **Work on Final Project - Full-Stack CRUD Application**
 
 ----------
-## Class 14 (5/14)
-### *Reminder 1:* Final Project - Full-Stack CRUD Application is due on Friday, 5/17, at 11:59 PM.
+## Class 14 (12/10, 12/12)
+### *Reminder 1:* Final Project - Full-Stack CRUD Application is due on Friday, 12/13, at 11:59 PM.
 
 ### *Reminder 2:* Complete Teacher Evaluation
 <br/>
 
 **Course Assessment Test (optional extra credit)**
-- Complete the optional Course Assessment Test on Tuesday, 5/14. 
+- Complete the optional Course Assessment Test on Tuesday, 12/10. 
 
 **Work on Final Project - Full-Stack CRUD Application**
-- Final Project is due on Friday, 5/17, at 11:59 PM.
+- Final Project is due on Friday, 12/13, at 11:59 PM.
